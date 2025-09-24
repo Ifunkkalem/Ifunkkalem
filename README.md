@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Ifunkkalem!
 
-<!--
-**Ifunkkalem/Ifunkkalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile 🚀  
+I'm just starting my journey here, learning and experimenting with code, projects, and ideas.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- How to use Git & GitHub
+- Basic programming concepts
+- Building simple projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build and share my own projects here
+- Learn more about open-source
+- Grow step by step as a developer
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ifunkkalem&show_icons=true&theme=radical)
+
+## 💡 Fun Fact
+Every expert was once a beginner. This is just the start ✨
